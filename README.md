@@ -1,5 +1,6 @@
 # uttersilence
-My thoughts on Blockchains and scientific references, objective press
+
+My thoughts on Blockchains and scientific references, objective press, and the architecture and implementation, wiring and cost, setup, of the Ethereum Utopia Network. Ethereum is a registered trademark of the Ethereum foundation and i have no right to use it offically yet or maybe ever. in that case, simply renaming it to Lyra. 
 
 ## considering a redis cluster with persistence due to the append-only file and signed/encrypted key-value storage a blockchain of zero gas-fees
 - researchgate.net/figure/A-decentralized-design-for-Redis-by-using-Gossip-protocol_fig1_313552454
